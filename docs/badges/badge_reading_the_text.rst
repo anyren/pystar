@@ -137,6 +137,8 @@ explore
     #.  In a Python context, use ``dir(mything)``, ``help(mything)``, 
         ``print mything`` and the like to discover its properties and values.  
 
+"list the [contents of the] directory"
+    This means run the ``ls`` command from the command line.
 
 Check your Understanding
 -----------------------------
