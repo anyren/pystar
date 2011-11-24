@@ -18,6 +18,16 @@ joining our google group http://groups.google.com/group/pystar. Also if you have
 and have material you'd like to submit to help other organizers please fork 
 https://github.com/pystar/pystar and do a pull request or ask to become a collaborator via the google group.
 
+PyStar Minneapolis
+------------------
+
+December 17th from 10am to 4pm. Set-up help available from 9am-10am.
+
+Register at: http://pystar-mpls-4.eventbrite.com/
+
+follow @PyStar_MPLS on Twitter for updates.
+
+
 PyStar SF
 ------------
 
@@ -32,11 +42,6 @@ PyStar Philly
 --------------
 
 Please check back for updates
-
-PyStar Minneapolis
-------------------
-
-Please check back for updates.
 
 
 Curriculum
