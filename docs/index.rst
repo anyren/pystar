@@ -8,39 +8,36 @@ Welcome to PyStar!
 
 The PyStar program is a workshop designed to teach all women (including trans women) and their friends who are 
 looking to learn how to program in a friendly non-alpha-geek environment.  The material on this site
-builds on `Boston Python Workshop <https://openhatch.org/wiki/Boston_Python_workshop>`_ which 
-was held March 4/5, 2011. 
+originally incorporated material developed by the `Boston Python Workshop <https://openhatch.org/wiki/Boston_Python_workshop>`_ which 
+was held March 4/5, 2011. Currently events decide and develop their own curriculum and badges using a mix
+of what's on this site and their own preferences.  As this project continues hopefully this site will 
+keep having more teaching materials added for a variety of skill levels.
 
 If you would like to hold a PyStar workshop in your area using this material, please get in touch by
-emailing the OpenHatch events list: events@lists.openhatch.org.
+joining our google group http://groups.google.com/group/pystar. Also if you have organized an event 
+and have material you'd like to submit to help other organizers please fork 
+https://github.com/pystar/pystar and do a pull request or ask to become a collaborator via the google group.
+
+PyStar SF
+------------
+
+September 10, 2011 from 9am to 4pm
+
+Register at: http://www.eventbrite.com/event/2084750545
+
+follow @Pystar_Promo on Twitter for updates.
 
 
 PyStar Philly
 --------------
 
-The Philadelphia PyStar is June 18th (9am to 4pm) 2011
-at Azavea:
-
-340 N. 12th Street
-4th Floor
-Philadelphia, PA 19107
-
-Register at http://phillypystar.eventbrite.com
-
+Please check back for updates
 
 PyStar Minneapolis
 ------------------
-The next Minneapolis PyStar is Saturday, June 11, 2011 from 9:00 AM - 3:00 at Clockwork Active Media Systems:
 
-1501 East Hennepin Avenue 
-Minneapolis, MN 55414
+Please check back for updates.
 
-Register at http://pystar-mpls-3.eventbrite.com/
-
-PyStar Bay Area
----------------
-
-Another PyStar coming soon - stay tuned
 
 Curriculum
 ------------
@@ -52,6 +49,7 @@ Curriculum
    :hidden: 
 
    about
+   for_organizers
    safer_space
    for_learners
    for_guides
@@ -61,4 +59,6 @@ Curriculum
    survey_pre_google
    survey_post_google
    previous_pystars
+   sponsors
+   notes_and_tools
 
